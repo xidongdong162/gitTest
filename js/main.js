@@ -1,0 +1,1 @@
+var header_h3=document.querySelector(".header h3"),footer_h3=document.querySelector(".footer h3");header_h3.onclick=function(){this.style.color="red"},footer_h3.onclick=function(){this.style.color="pink"};var main_h3=document.querySelector(".main h3");main_h3.onclick=function(){this.style.color="#666"};
